@@ -23,7 +23,7 @@ int main() {
 }
 ```
 ## OUTPUT:
- 	<img width="1251" height="467" alt="Screenshot 2025-10-21 101342" src="https://github.com/user-attachments/assets/dfa91a3c-25e1-4479-83a5-675df3c16c33" />
+<img width="1251" height="467" alt="Screenshot 2025-10-21 101342" src="https://github.com/user-attachments/assets/db831abc-43cb-4b74-98aa-d24033d92a86" />
 
 
 
